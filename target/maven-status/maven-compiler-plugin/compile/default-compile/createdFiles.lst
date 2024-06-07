@@ -1,0 +1,15 @@
+gamestate\GameState.class
+gamestate\DynamicEntity.class
+BurrowsWheeler.class
+Huffman.class
+bitpacker\PosEntity.class
+gamestate\PlayerState.class
+bitpacker\Floor.class
+gamestate\compressible\Compressible.class
+RunLength.class
+Node.class
+Main.class
+gamestate\Player.class
+gamestate\Monster.class
+bitpacker\GroundItem.class
+gamestate\Item.class

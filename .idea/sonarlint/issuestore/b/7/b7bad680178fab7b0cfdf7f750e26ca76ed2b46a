@@ -1,0 +1,17 @@
+
+
+java:S1206–"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãJ$63b63f7c-18af-4431-872d-30dcb1b04b9c
+†
+java:S2674j"JCheck the return value of the "read" call to see how many bytes were read.(ÖßÒJ$5fdb6d6c-ba2d-404c-aad6-cd5161e1910f
+‹
+java:S2674p"JCheck the return value of the "read" call to see how many bytes were read.(†ù”×ûÿÿÿÿJ$333ce18c-4797-44be-ab95-88e62d32b429
+†
+java:S2674v"JCheck the return value of the "read" call to see how many bytes were read.(Üš÷ÜJ$4aaf3e18-4005-43ee-b2f8-49121a7d6f39
+‹
+java:S2674~"JCheck the return value of the "read" call to see how many bytes were read.(§¨†–úÿÿÿÿJ$d5f80dc7-128f-4ce6-b24f-9bc15be71211
+‡
+java:S2674‚"JCheck the return value of the "read" call to see how many bytes were read.(º„ãæJ$ebeb72ef-2911-4dfb-bfdf-deb42a07b51d
+‡
+java:S2674‡"JCheck the return value of the "read" call to see how many bytes were read.(¥½ş„J$4c2f654c-5c62-4e5c-9e30-669e4092646d
+l
+java:S1128"+Remove this unused import 'gamestate.Item'.(ùÄ½úÿÿÿÿJ$f5fc37f4-3f5f-43a1-a59b-0ac00100f97d

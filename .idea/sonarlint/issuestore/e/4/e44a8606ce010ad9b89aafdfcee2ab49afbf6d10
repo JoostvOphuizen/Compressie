@@ -1,0 +1,30 @@
+
+]
+java:S1220""Move this file to a named package.8ŠìÉ×ð1J$95d0ca8e-53ac-41aa-a73e-b79244f9cbc3
+¯
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8™ìÉ×ð1J$7c1610f2-5dce-48cf-87bb-4dabe89eed02
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(´•œ–üÿÿÿÿ8ìÉ×ð1J$4d3762d8-4f49-4690-a7a6-8d4a8f837e2d
+m	java:S106H"+Replace this use of System.out by a logger.(‡Šè‰8¡ìÉ×ð1J$557de603-2371-40bb-9ec1-ec0b58bc4dfb
+r	java:S106N"+Replace this use of System.out by a logger.(Šá‡ºúÿÿÿÿ8¢ìÉ×ð1J$ec72895c-dc92-4964-b62f-6a4efbe892c3
+m	java:S106R"+Replace this use of System.out by a logger.(‡Šè‰8¤ìÉ×ð1J$14e127d8-8781-4534-9644-752d23e4c33f
+l	java:S106W"+Replace this use of System.out by a logger.(æ“„S8¥ìÉ×ð1J$10082861-2f63-4931-a1f5-ca0230f2705f
+m	java:S106["+Replace this use of System.out by a logger.(ÎÊÀÈ8¥ìÉ×ð1J$34065639-d62b-4e28-8332-eb89d9b05029
+r	java:S106_"+Replace this use of System.out by a logger.(¨àÎ ýÿÿÿÿ8¦ìÉ×ð1J$54f13ce4-06ec-4b2f-abd9-93301b732427
+r	java:S106c"+Replace this use of System.out by a logger.(ùíÞôûÿÿÿÿ8¦ìÉ×ð1J$d34728a6-ff6b-4002-9f68-804d161e4fde
+r	java:S106e"+Replace this use of System.out by a logger.(¿¬Ôúÿÿÿÿÿ8©ìÉ×ð1J$f2eb0a7e-b758-4e80-8689-cb8f602ec093
+ƒ	java:S125m"<This block of commented-out lines of code should be removed.(€ä¦§ýÿÿÿÿ8¨ìÉ×ð1J$1ca2b17d-fb92-46f9-b3ab-0e05660f0d44
+r	java:S106v"+Replace this use of System.out by a logger.(ºüÎÿýÿÿÿÿ8©ìÉ×ð1J$6821d169-b16b-4c7b-9c64-c095a6843bea
+r	java:S106w"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8©ìÉ×ð1J$01ffc534-c698-402e-8703-5d89bade6b3d
+r	java:S106z"+Replace this use of System.out by a logger.(åØ…ãøÿÿÿÿ8ªìÉ×ð1J$6177ce93-398b-46bf-bb15-fd2cd285489c
+m	java:S106|"+Replace this use of System.out by a logger.(¡Ž…º8ø­Ò×ð1J$ab5869e6-36c7-4b71-a0e1-7761a1b9d0a7
+t
+java:S1128",Remove this unused import 'bitpacker.Floor'.(×ýèÇýÿÿÿÿ8œÓ×ð1J$284acc15-a35d-46ea-88e8-a87b4651da04
+y
+java:S1128"1Remove this unused import 'bitpacker.GroundItem'.(ŸØŸçøÿÿÿÿ8œÓ×ð1J$f86f38ed-96d5-4d74-be94-5d25b29921ce
+t
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8œÓ×ð1J$dd4622b6-efc3-4158-951a-11bef61676a1
+o
+java:S1144K"-Remove this unused private "compress" method.(ùµÎ)8ŸÓ×ð1J$4f4ad08a-dd28-42f0-b11f-cdf6827b7a09
+„
+java:S1144i"<Remove this unused private "testCompressedGameState" method.(ŽÊ¢òûÿÿÿÿ8°ìÉ×ð1J$09f7b912-65c8-49cb-a1ce-808dc5a19c5c
